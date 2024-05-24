@@ -1,0 +1,10 @@
+{
+  "home_show_bottom_sheet": "Show Bottom Sheet",
+  "bottom_sheet_appbar_title": "Academic documents",
+  "bottom_sheet_appbar_text": "Please Upload your CV, Transcript, Certificates",
+  "bottom_sheet_upload_title": "Click to Upload",
+  "bottom_sheet_upload_text": "(Max. File size: 25 MB)",
+  "bottom_sheet_upload_resume": "Resume",
+  "bottom_sheet_transcript": "Your transcript",
+  "bottom_sheet_certificates": "Copy Of Degrees Obtained ( Certificates )"
+}
